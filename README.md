@@ -56,6 +56,7 @@ conda activate minigpt4
 
 
 **2. Prepare the pretrained Vicuna weights**
+我使用的权重地址：https://huggingface.co/eachadea/vicuna-13b-1.1
 
 The current version of MiniGPT-4 is built on the v0 versoin of Vicuna-13B.
 Please refer to our instruction [here](PrepareVicuna.md) 
@@ -75,6 +76,8 @@ Then, set the path to the vicuna weight in the model config file
 [here](minigpt4/configs/models/minigpt4.yaml#L16) at Line 16.
 
 **3. Prepare the pretrained MiniGPT-4 checkpoint**
+
+13B pretained:https://huggingface.co/Vision-CAIR/MiniGPT-4/tree/main/pretrained_minigpt4.pth
 
 Download the pretrained checkpoints according to the Vicuna model you prepare.
 
