@@ -56,6 +56,7 @@ conda activate minigpt4
 
 
 **2. Prepare the pretrained Vicuna weights**
+
 我使用的权重地址：https://huggingface.co/eachadea/vicuna-13b-1.1
 
 The current version of MiniGPT-4 is built on the v0 versoin of Vicuna-13B.
