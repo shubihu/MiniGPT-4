@@ -7,6 +7,8 @@
 
 import argparse
 import os
+# 设置CUDA_VISIBLE_DEVICES环境变量
+# os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 import random
 
 import numpy as np

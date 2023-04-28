@@ -1,0 +1,6 @@
+decord==0.6.0
+gradio==3.27.0
+iopath==0.1.10
+omegaconf==2.3.0
+timm==0.6.13
+webdataset==0.2.48
